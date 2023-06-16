@@ -23,6 +23,11 @@ Español (Spanish) | <a href="https://www.linkedin.com/in/pablofacciano">English
   - `NodeJS`, `Express`
   - `T-SQL (SQL Server)`
 
+- Salesforce Marketing Cloud Products
+  - `SFMC Engagement` (fka. Marketing Cloud)
+  - `SFMC Personalization` (fka. Interaction Studio)
+  - `SFMC Account Engagement` (fka. Pardot)
+
 - Salesforce Marketing Cloud Engagement
   - `AMPScript` & `ServerSide JavaScript (SSJS)`
   - `Cloudpages` & `Code Resources`
@@ -32,11 +37,15 @@ Español (Spanish) | <a href="https://www.linkedin.com/in/pablofacciano">English
   - `Custom Activity` & `Custom Content Block`
   - `API REST` & `API SOAP`, `SDK` de NodeJS
   - `Web-app` & `Server-side` auth para API y apps
+  - Email personalization
+  - Desarrollo de APIs personalizadas
+  
 
-- Salesforce Marketing Cloud Products
-  - `SFMC Engagement` (fka. Marketing Cloud)
-  - `SFMC Personalization` (fka. Interaction Studio)
-  - `SFMC Account Engagement` (fka. Pardot)
+- Salesforce Marketing Cloud Account Engagement
+  - Setup/Admin, Salesforce Connect
+  - Lists & Dynamics List
+  - Analytics
+  - Email & Engagement Programs
 
 - Salesforce Core Products
   - `Sales Cloud` & `Service Cloud`
