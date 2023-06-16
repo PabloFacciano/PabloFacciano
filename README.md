@@ -3,7 +3,7 @@ Español (Spanish) | <a href="https://www.linkedin.com/in/pablofacciano">English
 
 <h1>Hola!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-### 👨‍💻 &nbsp;Sobre Mí:
+## 👨‍💻 &nbsp;Sobre Mí:
 
 - 🔭 De día estoy trabajando como Marketing Cloud Developer desarrollando soluciones en la nube.
 - ⚡ De noche y en tiempos libres estoy estudiando para certificaciones y acreditaciones oficiales de Salesforce.
@@ -13,14 +13,15 @@ Español (Spanish) | <a href="https://www.linkedin.com/in/pablofacciano">English
 <p>¿Querés contactarme?<br><a href="https://www.linkedin.com/in/pablofacciano"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a></p>
 
 
-### 🛠 &nbsp;Lenguajes de programación y Tecnologías:
+## 🛠 &nbsp;Lenguajes de programación y Tecnologías:
 
-### Repositorios
+TO-DO
 
-Nombre - Descripcion - Tags - Estado - Tiene demo o video?
+
+## Repositorios
 
 |Año|Publico|Nombre|Descripcion|Tags|Estado|Demo|
-|---|---|---|---|---|
+|---|---|---|---|---|---|---|
 |2022|❌|sfmc-tracking-pixel|Detectar aperturas y tiempo de lecturas de los emails|AMPScript, SFMC|Cerrado, funcionando|No|
 |2022|❌|app-telegram-admin|App de administracion del backend|NodeJS, Vue3, Vue.js, SFMC|Cerrado, funcionando|No|
 |2022|❌|sfmc-telegram|Integración con Bot de Telegram por Custom Activityde SFMC Journey Builder|NodeJS, Vue3, Vue.js, SFMC|Cerrado, funcionando|No|
