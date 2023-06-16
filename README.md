@@ -28,7 +28,7 @@ Español (Spanish) | <a href="https://www.linkedin.com/in/pablofacciano">English
   - Cloudpages & Code Resources
   - Email Studio, Mobile Connect, Automation Studio
   - Content Builder, Journey Builder & Contact Builder
-  - Behavioral Triggers & Einstein
+  - Behavioral Triggers, Einstein, Package Manager
 
 - Salesforce Marketing Cloud Products
   - SFMC Engagement (fka. Marketing Cloud)
