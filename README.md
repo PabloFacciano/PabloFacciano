@@ -18,37 +18,40 @@ Español (Spanish) | <a href="https://www.linkedin.com/in/pablofacciano">English
 ### ⭐⭐⭐⭐⭐
 
 - Lenguajes de Programación
-  - HTML, CSS, Javascript
-  - Vue3, Vue.js
-  - NodeJS, Express
-  - T-SQL (SQL Server)
+  - `HTML`, `CSS`, `Javascript`
+  - `Vue3`, `Vue.js`
+  - `NodeJS`, `Express`
+  - `T-SQL (SQL Server)`
 
 - Salesforce Marketing Cloud Engagement
-  - AMPScript & ServerSide JavaScript (SSJS)
-  - Cloudpages & Code Resources
-  - Email Studio, Mobile Connect, Automation Studio
-  - Content Builder, Journey Builder & Contact Builder
-  - Behavioral Triggers, Einstein, Package Manager
+  - `AMPScript` & `ServerSide JavaScript (SSJS)`
+  - `Cloudpages` & `Code Resources`
+  - `Email Studio`, `Mobile Connect` & `Automation Studio`
+  - `Content Builder`, `Journey Builder` & `Contact Builder`
+  - `Behavioral Triggers`, `Einstein`, `Package Manager`
+  - `Custom Activity` & `Custom Content Block`
+  - `API REST` & `API SOAP`, `SDK` de NodeJS
+  - `Web-app` & `Server-side` auth para API y apps
 
 - Salesforce Marketing Cloud Products
-  - SFMC Engagement (fka. Marketing Cloud)
-  - SFMC Personalization (fka. Interaction Studio)
-  - SFMC Account Engagement (fka. Pardot)
+  - `SFMC Engagement` (fka. Marketing Cloud)
+  - `SFMC Personalization` (fka. Interaction Studio)
+  - `SFMC Account Engagement` (fka. Pardot)
 
 - Salesforce Core Products
-  - Sales & Service Cloud
-  - Data Cloud (fka. Marketing Cloud Customer Data Platform, Salesforce CDP, Customer 360 Audiences)
+  - `Sales Cloud` & `Service Cloud`
+  - `Data Cloud` (fka. Marketing Cloud Customer Data Platform, Salesforce CDP, Customer 360 Audiences)
 
-- Markdown
-- VB .NET, .Net Framework
+- `Markdown`
+- `VB .NET`, `.Net Framework`
 
 ### ⭐⭐⭐
 
-- Visual Basic 6, Visual Studio 2010 en adelante
-- C# .NET
-- C++, Arduino
-- ASP Classic, ASP.NET, PHP
-- Python
+- `Visual Basic 6`, `Visual Studio 2010` en adelante
+- `C# .NET`
+- `C++`, `Arduino`
+- `ASP Classic`, `ASP.NET`, `PHP`
+- `Python`
 
 
 ----
