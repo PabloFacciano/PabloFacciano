@@ -8,7 +8,8 @@ Español (Spanish) | <a href="https://www.linkedin.com/in/pablofacciano">English
 
 - 🔭 De día estoy trabajando como Marketing Cloud Developer desarrollando soluciones en la nube.
 - ⚡ De noche y en tiempos libres estoy estudiando para certificaciones y acreditaciones oficiales de Salesforce.
-- 🌱 También estoy explorando proyectos OpenSource y nuevo horizontes de aprendizaje como nuevos lenguajes de programación, inteligencia artificial, ChatGPT/Bard y demás.
+- 🌱 También estoy explorando proyectos OpenSource y nuevos horizontes de aprendizaje como lenguajes de programación, inteligencia artificial, ChatGPT/Bard y demás.
+- ✨ Estudiando "Analista de Sistemas" en ISFT N°172. Más información en https://instituto172.wixsite.com/isft172/analistaensistemas
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
