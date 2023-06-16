@@ -15,6 +15,32 @@ Español (Spanish) | <a href="https://www.linkedin.com/in/pablofacciano">English
 
 ### 🛠 &nbsp;Lenguajes de programación y Tecnologías:
 
+### Repositorios
+
+Nombre - Descripcion - Tags - Estado - Tiene demo o video?
+
+|Año|Publico|Nombre|Descripcion|Tags|Estado|Demo|
+|---|---|---|---|---|
+|2022|❌|sfmc-tracking-pixel|Detectar aperturas y tiempo de lecturas de los emails|AMPScript, SFMC|Cerrado, funcionando|No|
+|2022|❌|app-telegram-admin|App de administracion del backend|NodeJS, Vue3, Vue.js, SFMC|Cerrado, funcionando|No|
+|2022|❌|sfmc-telegram|Integración con Bot de Telegram por Custom Activityde SFMC Journey Builder|NodeJS, Vue3, Vue.js, SFMC|Cerrado, funcionando|No|
+|2022|❌|sfmc-tracking-pixel|Detectar aperturas y tiempo de lecturas de los emails|AMPScript, SFMC|Cerrado, funcionando|No|
+|2022|✅|sfmc-new-ui|Nueva interfaz para SFMC|Vue3, Vue.js|Cerrado, no terminado|No|
+|2021|❌|app-ampscript-studio|App para ejecucion de AMPScript|SFMC, AMPScript, Vue3, Vue.js|https://ampscript.netlify.app/ (login ya deshabilitado)|
+|2021|✅|ampscript-studio-public|Documentacion de la app.|SFMC, AMPScript, Vue3, Vue.js|https://pablofacciano.github.io/ampscript-studio-public/|
+|2021|❌|sfmc-ca-nodejs|Custom Activity que ejecuta Javascript en NodeJS|NodeJS, Vue3, Vue.js, SFMC|Cerrado, funcionando|No|
+|2020|✅|chrome-teamworkchat-pro|Extension de Chrome para Teamwork Chat, ampliando las opciones disponibles.|Cerrado, funcionando|No|
+|2020|✅|app-time-reminder|Programa que muestra la hora cada cierto tiempo, cerca del mouse.|VB.Net|Cerrado, funcionando|No|
+|2020|✅|app-time-reminder-old|Programa que muestra la hora cada cierto tiempo, cerca del mouse.|VB.Net|Cerrado, funcionando|No|
+|2020|✅|app-crm-demo|Programa administracion clientes, productos y ventas.|VB.Net, SQL Server|Cerrado, funcionando|No|
+|2020|✅|app-exercise-csharp|Calcular costo de alquiler de bicicletas en C#|C#.Net|Cerrado|No|
+|2019|✅|game-iogame-shooter|Juego 2D multijugador en LAN|VB.Net, Network|Cerrado, funcionando|No|
+|2019|✅|app-exercise-java|Programa de ejemplo|Java|Cerrado, funcionando|No|
+|2019|✅|app-exercise-cajero-automatico|Programa de ejemplo de Cajero automatico|Python|Cerrado, funcionando|No|
+|2019|✅|app-exercise-caluladoraweb|Programa de ejemplo de calculadora|PHP|Cerrado, funcionando|No|
+
+
+
 
 ---
 
