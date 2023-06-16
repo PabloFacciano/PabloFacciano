@@ -1,16 +1,8 @@
 
 Español (Spanish) | <a href="https://www.linkedin.com/in/pablofacciano">English</a>
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-
-
-<p align="center">
-
-</p>
-
 <h1 align="center">Hola!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
-<p align="center" style="display:flex;align-items: center;">Querés contactarme? <a href="https://www.linkedin.com/in/pablofacciano"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a></p>
-
+<p align="center" style="display:flex;align-items: center;">¿Querés contactarme?<br><a href="https://www.linkedin.com/in/pablofacciano"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a></p>
 
 ### 👨‍💻 &nbsp;Sobre Mí :
 
